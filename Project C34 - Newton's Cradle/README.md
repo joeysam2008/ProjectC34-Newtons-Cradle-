@@ -1,3 +1,2 @@
-# angryBirdsStage2.5
-Angry Birds stage 2.5 with Class Inheritance and Images
-//hello this is joanne
+Newton's Cradle Project C34
+=>started from scratch
